@@ -1,0 +1,35 @@
+E:\C#\DataToEmail_Sys\Main\bin\Release\Main.exe.config
+E:\C#\DataToEmail_Sys\Main\bin\Release\Main.exe
+E:\C#\DataToEmail_Sys\Main\bin\Release\Main.pdb
+E:\C#\DataToEmail_Sys\Main\bin\Release\BLL.dll
+E:\C#\DataToEmail_Sys\Main\bin\Release\NPOI.dll
+E:\C#\DataToEmail_Sys\Main\bin\Release\DAL.dll
+E:\C#\DataToEmail_Sys\Main\bin\Release\Oracle.ManagedDataAccess.dll
+E:\C#\DataToEmail_Sys\Main\bin\Release\MySql.Data.dll
+E:\C#\DataToEmail_Sys\Main\bin\Release\BLL.pdb
+E:\C#\DataToEmail_Sys\Main\bin\Release\DAL.pdb
+E:\C#\DataToEmail_Sys\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+E:\C#\DataToEmail_Sys\Main\obj\Release\Main.Frm_Main.resources
+E:\C#\DataToEmail_Sys\Main\obj\Release\Main.Properties.Resources.resources
+E:\C#\DataToEmail_Sys\Main\obj\Release\Main.csproj.GenerateResource.Cache
+E:\C#\DataToEmail_Sys\Main\obj\Release\Main.exe
+E:\C#\DataToEmail_Sys\Main\obj\Release\Main.pdb
+C:\Users\Double Chen\Desktop\我参与的编程\DataToEmail_Sys\Main\bin\Release\Main.exe.config
+C:\Users\Double Chen\Desktop\我参与的编程\DataToEmail_Sys\Main\obj\Release\Main.exe
+C:\Users\Double Chen\Desktop\我参与的编程\DataToEmail_Sys\Main\obj\Release\Main.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\Main.exe.config
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\obj\Release\Main.exe
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\obj\Release\Main.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\Main.exe
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\Main.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\BLL.dll
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\NPOI.dll
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\DAL.dll
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\MySql.Data.dll
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\BLL.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\bin\Release\DAL.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\obj\Release\Main.csprojResolveAssemblyReference.cache
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\obj\Release\Main.Frm_Main.resources
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\obj\Release\Main.Properties.Resources.resources
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\Main\obj\Release\Main.csproj.GenerateResource.Cache

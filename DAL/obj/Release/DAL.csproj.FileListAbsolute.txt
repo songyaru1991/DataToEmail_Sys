@@ -1,0 +1,13 @@
+E:\C#\DataToEmail_Sys\DAL\bin\Release\DAL.dll
+E:\C#\DataToEmail_Sys\DAL\bin\Release\DAL.pdb
+E:\C#\DataToEmail_Sys\DAL\bin\Release\MySql.Data.dll
+E:\C#\DataToEmail_Sys\DAL\bin\Release\Oracle.ManagedDataAccess.dll
+E:\C#\DataToEmail_Sys\DAL\obj\Release\DAL.dll
+E:\C#\DataToEmail_Sys\DAL\obj\Release\DAL.pdb
+E:\C#\DataToEmail_Sys\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\DAL\bin\Release\DAL.dll
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\DAL\bin\Release\DAL.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\DAL\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\DAL\obj\Release\DAL.dll
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\DAL\obj\Release\DAL.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache

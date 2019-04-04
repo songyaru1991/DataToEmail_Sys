@@ -1,0 +1,11 @@
+E:\C#\DataToEmail_Sys\test\bin\Release\test.exe.config
+E:\C#\DataToEmail_Sys\test\bin\Release\test.exe
+E:\C#\DataToEmail_Sys\test\bin\Release\test.pdb
+E:\C#\DataToEmail_Sys\test\obj\Release\test.exe
+E:\C#\DataToEmail_Sys\test\obj\Release\test.pdb
+E:\C#\DataToEmail_Sys\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\test\bin\Release\test.exe.config
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\test\bin\Release\test.exe
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\test\bin\Release\test.pdb
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\test\obj\Release\test.exe
+C:\Users\Yaru_Song\Desktop\工时管理系统资料\交接资料\KSORACLE\DataToEmail_Sys\test\obj\Release\test.pdb
